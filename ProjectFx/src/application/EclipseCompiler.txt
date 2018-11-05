@@ -1,3 +1,0 @@
-1 十一月 2018 14:13:43 GMT: Log 'EclipseCompiler.txt' opened: 1 十一月 2018 14:13:43 GMT with name C:\Users\shiyi\Desktop\ProjectFx\ProjectFx\src\application\EclipseCompiler.txt
-1 十一月 2018 14:16:09 GMT: Log 'EclipseCompiler.txt' opened: 1 十一月 2018 14:16:09 GMT with name C:\Users\shiyi\Desktop\ProjectFx\ProjectFx\src\application\EclipseCompiler.txt
-1 十一月 2018 14:19:13 GMT: Log 'EclipseCompiler.txt' opened: 1 十一月 2018 14:19:13 GMT with name C:\Users\shiyi\Desktop\ProjectFx\ProjectFx\src\application\EclipseCompiler.txt
